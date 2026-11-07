@@ -2,6 +2,17 @@
 
 A simple and secure password generator built with Python and CustomTkinter.
 
+## Screenshots
+
+### Main Screen
+![Main Screen](screenshots/app-main.png)
+
+### Password Generated
+![Password Generated](screenshots/app-generated.png)
+
+### Password Copied
+![Password Copied](screenshots/app-copied.png)
+
 ## Features
 
 - Generate random passwords
@@ -26,11 +37,15 @@ This application uses Python's secrets module to generate passwords using crypto
 1. Clone this repository.
 2. Install CustomTkinter:
 
-bash pip install customtkinter 
+```bash
+pip install customtkinter
+```
 
 3. Run the application:
 
-bash python3 password_generator.py 
+```bash
+python3 password_generator.py
+```
 
 ## Project
 
